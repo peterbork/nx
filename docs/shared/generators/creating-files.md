@@ -136,7 +136,7 @@ This is the short version.
   %>
   This text will be repeated <%= numRepetitions %> times.
 <% } // end for loop
-} // end else block %>
+} %> // end else block 
 ```
 
 ```typescript
